@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636524519250",
+    "firebase_url": "https://smartedupp.firebaseio.com",
+    "project_id": "smartedupp",
+    "storage_bucket": "smartedupp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636524519250:android:4cc878deb2c091e3dee48b",
+        "android_client_info": {
+          "package_name": "smartedu.usp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636524519250-qoh4kthhmt4neiok3v1bnggtemv2ma0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx30XXOht9fyGlli-vuKBO9VSXXiKb-4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636524519250-qoh4kthhmt4neiok3v1bnggtemv2ma0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

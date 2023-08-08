@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511004999359-m5s2p94j1gj98j163g7kerak5be1ughs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511004999359-m5s2p94j1gj98j163g7kerak5be1ughs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9IleAfHsdoOJ16JlnGFZ6Qr26Y8v92uQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511004999359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thawalibppios.usp</string>
+	<key>PROJECT_ID</key>
+	<string>thawalib-padang-panjang</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thawalib-padang-panjang.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511004999359:ios:ab2f84582af2b3b54a500a</string>
+	<key>DATABASE_URL</key>
+	<string>https://thawalib-padang-panjang.firebaseio.com</string>
+</dict>
+</plist>
